@@ -4,7 +4,8 @@
 - [Christmas Recipe](#christmas-recipe)
 - [Component Practice](#component-practice)
 - [React Routes](#react-routes)
-- [Windows Linux Subsystem Setup](#windos-linux-subsystem-setup)
+- [Windows Linux Subsystem Setup](#windows-linux-subsystem-setup)
+- [Final Project Guide](#final-project-guide)
 
 ###  [Christmas Recipe](https://github.com/wyncode/front_end_pt_resources/tree/master/christmas_recipe)
 An exercise in building Javascript Objects by looking at the source.
@@ -20,3 +21,6 @@ A practice in building React routes. This exercise gives the students a three pa
 
 ### [Windows Linux Subsystem Setup](https://github.com/wyncode/front_end_pt_resources/tree/master/Windows-Linux-Subsystem-Setup)
 Instructions to setup the Windows Linux subsystem.
+
+### [Final Project Guide](./part_time_projects.md) 
+Instructions and resources for working on the Front-End Part-Time Final Project.
