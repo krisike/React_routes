@@ -6,7 +6,7 @@
 2. Commit often throughout the progress of your issue  
 3. When the issue is ready, create a Pull Request (PR) that one of your teammates will review and merge.  
 4. Rinse and repeat.  
-Note: Refer to [image](https://github.com/wyncode/for_part_time_students/blob/master/assets/git_workflow01.jpg)  
+Note: Refer to [image](https://github.com/wyncode/front_end_pt_resources/blob/master/assets/git_workflow01.jpg)  
 
 - Updating an issue:  
 
