@@ -1,7 +1,7 @@
 # Part Time Project Guides and Guidelines
 
 ## Requirements
-- Project must have at least 3 veiews
+- Project must have at least 3 views
 - React router must be used in the project
 - At least **one** API must be used in the project to get data. If the group decides to create its own data, it needs to be hosted in Github and consumed as an API.
 - There needs to be at least one feature: Write at least one algorithm to manipulate data (as opposed to just getiting data and rendering it)
